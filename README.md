@@ -12,7 +12,7 @@ SGProgrammingTest.exe > output.txt
 That will run the application and create a file in the same folder called "output.txt".
 
 # Example Output
----
+```
 Welcome to SGProgrammingTest.
 Generating Dataset...
 
@@ -149,4 +149,4 @@ Results:
 
 We found 4 people alive during year(s) listed above.
 Total years were 29.
-
+```

@@ -50,8 +50,11 @@ namespace SGProgrammingTest
             Console.WriteLine("We found {0} people alive during year(s) listed above.", Analytics.MaxNumberOfPeopleInYears);
             Console.WriteLine("Total years were {0}.", Analytics.TotalYearsFound);
             Console.WriteLine("");
+
+#if DEBUG
             Console.WriteLine("Press enter to continue...");
             Console.Read();
+#endif
         }
     }
 }

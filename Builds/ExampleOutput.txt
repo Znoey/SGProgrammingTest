@@ -1,18 +1,3 @@
-# SGProgrammingTest
-The answer to the first problem in the Scientific Games programming test.  This application targets Windows only and cannot run on other operating systems. 
-The dataset is randomized on every execution.
-
-# How to Use
----
-You can run the program by cloning the project, going into the Builds folder and executing the program from there.
-If you'd like to generate you're own output file, open the command line in the builds folder and run the following command...
-```
-SGProgrammingTest.exe > output.txt
-```
-That will run the application and create a file in the same folder called "output.txt".
-
-# Example Output
----
 Welcome to SGProgrammingTest.
 Generating Dataset...
 
